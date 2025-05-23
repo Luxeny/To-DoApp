@@ -14,7 +14,6 @@ namespace To_DoApp
     {
         public MainForm()
         {
-            InitializeComponent();
         }
     }
 }
